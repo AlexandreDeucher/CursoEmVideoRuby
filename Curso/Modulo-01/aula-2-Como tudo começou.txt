@@ -1,0 +1,8 @@
+ele começa explicando como foi criado o ruby que no caso foi criado em 1995
+e toda documentação foi criada em japones porem em 2000 um cara chamado Dave thomas
+e andy hunt traduziu essa documentação, e em 2003 foi criado o ruby on rails por 
+david heinemeir e jason fried. após isto ele explica o por que utilizar ruby rails 
+que é pelo fato de ele tem um processo de programar mais simples do que em outras 
+linguagens sem contar com o controle de versionamento muito mais pratico e simplificado
+alem de conter o (RAD) uma facilidade para adicionar alterações sem contar que os codigos 
+ruby são codigos limpos assim aumentando a produtividade, manutenção entre outras coisa.

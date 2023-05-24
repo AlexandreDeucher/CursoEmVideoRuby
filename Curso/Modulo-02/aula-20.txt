@@ -1,0 +1,1 @@
+nos tipos ele explicou sobre os primitivos como a string float entre outro e os complexos com date e outras classes criadas.

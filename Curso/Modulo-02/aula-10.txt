@@ -1,0 +1,5 @@
+na aula 10 ele explica sobre a tipagem flexivel do ruby que ele não como um java que é extremamente rigido em relação a tipagem e voce 
+não precisa definir um tipo para uma variavel o proprio interpretador avalia e diz o que é alem de ensinar a dar o hello world e como checar o tipo de uma classe com 
+usando puts(variavel.class), alem disso ele explica a diferença da versão do ruby 2.3 e 2.4 que a principal diferença é que na versão antiga existiam subdivisoes para o integer
+o fixnum que suportava uma quantidade menor de caracteres ja o bignum era utilizado para receber numeros enormes e na versão 2.4 isso mudou o Int passou a receber todos estes valores
+e assim diminuindo a taixa de erro

@@ -1,0 +1,1 @@
+ele ensina como mecher no versionamento tipo deixar a versao apenas >= a 1.0.0 ou funcionar ~>1.1.0 ela ira funcionar de 1.1.0 até 1.1.9

@@ -1,0 +1,3 @@
+ele esplica sobre o gem file e ele instala todas as dependencias
+de uma gem especificada para ele e guarda para voce todas as versoes utilizadas
+por voce.

@@ -1,0 +1,1 @@
+aqui aprendi como instanciar uma classe e um metodo achei mais simples do que em java

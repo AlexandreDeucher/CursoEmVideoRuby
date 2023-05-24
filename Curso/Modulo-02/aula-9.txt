@@ -1,0 +1,2 @@
+foi ensinado a mostrar um texto na tela utilizado o puts e tambem foi explicado o que é o irb que é um interpretador de codigo que ao decorre de voce ir codando ele 
+vai interpretando o que voce faz e tambem foi mostrada uma versao melhorada do irb o pry que vem com alguns beneficios como o highliht.

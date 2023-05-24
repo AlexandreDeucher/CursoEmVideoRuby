@@ -1,0 +1,1 @@
+aprendi sobre o hashe que é quase um array ele é comandado por indices do mesmo jeito porem o seu diferencial é que por ele pode se renomear o nome do indice

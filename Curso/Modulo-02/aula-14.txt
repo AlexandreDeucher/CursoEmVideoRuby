@@ -1,0 +1,2 @@
+nesta aula eu aprendi sobre o while que é uma estrutura de repetição que enquanto a variavel for < que outra variavel ele repetira o que foi pedido e o each que ele
+anda de numero em numero repetindo o que tem dentro ele pode ser usado para manipular arrays ou vetores entre outras funções.

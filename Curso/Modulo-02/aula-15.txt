@@ -1,0 +1,1 @@
+nesta aula eu vi como funciona a sintaxe dos array e algumas formas de ler eles como com o each e chamando eles diretamente

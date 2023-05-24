@@ -1,0 +1,2 @@
+aprendi sobre a concatenacao que pode ser feito com + porem ocupa espaço de memoria e por << que não aloca memoria alem disto vi a interpolação que pode ser feita por 
+meio de #{}

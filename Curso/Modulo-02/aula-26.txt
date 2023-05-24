@@ -1,0 +1,1 @@
+ele explica sobre basicamente como chamar uma classe sem precisar instanciar usando um self antes de declarar a classe 

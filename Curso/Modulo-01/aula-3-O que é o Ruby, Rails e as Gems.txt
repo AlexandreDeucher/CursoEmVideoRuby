@@ -1,0 +1,12 @@
+ele explica que o ruby é uma linguagem interpretada e não compilada e como ele é compilado
+no caso voce envia o codigo para a maquina e assim a maquina virtual
+MRI interpreta suas linhas de código e ela é multiparadigma sendo open source
+e presa pela produtividade, o que são as gems são bibliotecas que podem ser utilizadas pelo
+programador, o que é um framework ele é um conjunto abstrato de codigo que utiliza de alguns
+principios de codigos ja utilizados por voce ou por outros programadores para facilitar 
+algumas funções triviais assim adiatando o processo de desenvolvimento da aplicação
+ele tambem explica que o rails tem uma maneira propria de padroes de programaçao
+tambem é explicado o principio de DRY que no caso é de não repetir código se tem dois 
+trechos de códigos iguais dentro de uma aplicação aquilo está errado 
+tambe teve o CoC o rails tem seu propria convençao a qual ele ja vem pronto porem se 
+voce utilizar alguma diferente ai sim voce tera de configurar

@@ -1,0 +1,3 @@
+bom ele mostrou o self que é pra basicamente uma verificação do id do objeto alem disso vi como pegar uma variavel e deixar ela global 
+dentro de uma classe fazendo com que voce consiga puxar ela de qualquer lugar daquela classe porem não consiga puxar ele para outras classes onde ela não foi
+declarada isso é uma variavel de instancia e vi sobre os accessor que ele é basicamente um getter e um setter para a determinada variavel

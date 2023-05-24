@@ -1,0 +1,3 @@
+com o modulo voce não pode criar um objeto apartir dele alem disto um modulo não pode ser herdado ou herdar outro modulo e sao bons lugares para se guardarem
+constantes uma das funçoes deles é ter o namespace que quer dizer que não importa se ja exista outro metodo fora daquele ambiente com o mesmo nome eles não irao se 
+conflitar e ele tambem serve para ligar funçoes de uma classe em outra e vice versa 

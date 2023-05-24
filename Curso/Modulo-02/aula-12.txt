@@ -1,0 +1,3 @@
+bom na parte de condicionais eu aprendi algumas estruturas que achei interessante pelo fato de elas serem basicamente versoes mais facilitadas de um if
+como o unless que é um if ao contrario tambem vi o case que ele verifica se o numero esta entre x .. y e faz a mesma coisa que um if ele valida se aquilo 
+é verdade e printa o que foi mandado 

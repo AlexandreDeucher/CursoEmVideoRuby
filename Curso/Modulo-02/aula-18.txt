@@ -1,0 +1,1 @@
+aprendi a como utilizar um simbolo que é basicamente uma variavel porem ele tem um identificador unico então ele nunca se repete diferente de uma string qualquer

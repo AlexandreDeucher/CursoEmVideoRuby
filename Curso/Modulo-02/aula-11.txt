@@ -1,0 +1,3 @@
+ele começa explicando o stdout que seria a saida padrao no caso o puts que utilizamos par imprimir coisas na tela e tambem o stdin que é a entra padrao
+que utilizamos o gets como tirar o /n que é utilizando o .chomp alem disso fiquei tentando fazer alguns programinhas simples como o calculo de uma média utilizando a 
+conversao de tipo como o to_i to_f entre outros.

@@ -1,0 +1,3 @@
+nesta aula ele explicou como uma classe pode herdar atributos de uma outra classe um exemplo seria temos uma classe A com os atributos tecla e cor pode 
+existir uma classe B que herda estes atributos e alem disso tem um atributo proprio como um switch diferente entao esta classe B tera todos atributos de A
+dentro de si.

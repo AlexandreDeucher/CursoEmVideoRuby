@@ -1,0 +1,1 @@
+ele explica o que é classe que ela é basicamente uma abstração da realidade ou um molde para a criação do objeto desejado

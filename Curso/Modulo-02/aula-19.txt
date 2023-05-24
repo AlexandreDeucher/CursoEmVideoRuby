@@ -1,0 +1,2 @@
+foi basicamente dito que não é nescessario colocara parenteses no puts "alexandre" e tambem foi explicado as constanstes que são variaveis mque não deveriam ser alteradas e 
+elas sao declaradas toda maiuscula tipo ALEXANDRE

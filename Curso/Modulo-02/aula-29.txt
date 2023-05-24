@@ -1,0 +1,1 @@
+aqui ele instalou uma gem que gera e valida cpf e ensinou como utilizala

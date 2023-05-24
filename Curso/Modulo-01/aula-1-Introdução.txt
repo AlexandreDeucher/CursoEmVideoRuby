@@ -1,0 +1,2 @@
+foi basicamente explicado o que sera trabalhado no rails 5.2
+e como funcionara o metodo de estudo determinado.

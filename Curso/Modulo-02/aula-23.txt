@@ -1,0 +1,2 @@
+foi ensinado a colocar parametros dentro dos metodos e como utilizalos alem disso foi mostrado um metodo especial chamado initialize que serve para que assim que voce
+chamar uma classe ele executara como primeira opçao o metodo initialize
