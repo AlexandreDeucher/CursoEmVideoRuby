@@ -1,0 +1,7 @@
+ele explica que existem 5 etapas de teste o setup que é quando a gente 
+coloca o sistema em uma situação ao qual sera nescessario o teste
+em seguida o exercise que é onde voce tera os seus parametros e o que o sistema fara
+e depois o verify que ele verifica se o retorno era o retorno esperado 
+e por ultimo seria o teardown que ele coloca o sistema de volta ao estado normal
+como ele estava antes sem alterações no banco nem nada do genero porem com o rspec
+não precisamos nos preocupar com isso pois ele faz isso sozinho.

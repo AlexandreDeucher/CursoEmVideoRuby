@@ -1,0 +1,4 @@
+a gente começa a produzir um primeiro teste que consiste em voce utilizar 
+um description para ele descrever o metodo em seguida voce utiliza o it
+que ira dar um breve resumo do que aquilo deve fazer em seguida o codigo a ser testado
+e o expected que é o valor esperado pelo sistema.

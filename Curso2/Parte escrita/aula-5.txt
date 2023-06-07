@@ -1,0 +1,1 @@
+ele apresenta o rspec e ensina a instalar sua gem apenas 

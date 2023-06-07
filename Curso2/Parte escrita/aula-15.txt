@@ -1,0 +1,2 @@
+é explicado que existe o to_not que seria o inveroso ao qual a gente estava 
+utilizando e tem inumeras metchers alem do eq 

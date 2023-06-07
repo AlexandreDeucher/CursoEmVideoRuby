@@ -1,0 +1,1 @@
+terminamos os testes e é explicado como podemos chamar um teste em expecifico de um arquivo

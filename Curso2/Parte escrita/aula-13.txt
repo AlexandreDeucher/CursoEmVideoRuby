@@ -1,0 +1,2 @@
+foi mostrado o xit que é como deixar um teste em pendente que dizer que ele ainda não esta pronto ou algo do tipo e como chamar apenas um arquivo de teste ou algum teste em especifico 
+alem de conseguir chamar testes pela linha que ele se encontra

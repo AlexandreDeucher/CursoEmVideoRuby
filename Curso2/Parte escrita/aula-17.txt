@@ -1,0 +1,4 @@
+aqui ele mostra mais um monte de metcher como o eq que ve se é o mesmo objeto
+o eql que testa se é o mesmo valor e ainda mais metchers como os de verdadeiro e falso
+e para verificar se é nulo ou não alem de verificar se o numero é impar ou par por meio do odd
+e even

@@ -1,0 +1,3 @@
+nesta aula ele mostra o all que é basicamente que ele esta fazendo com que 
+todos os elementos do array sejam aquilo que ele deseja um exemplo seria todo serem
+numero inteiros no caso ([1,2,3,4]).to all be_a(Integer).

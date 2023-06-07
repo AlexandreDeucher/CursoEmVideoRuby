@@ -1,0 +1,1 @@
+o one-lyner-syntaxe ele serve para deixar o codigo em uma linha e mais verboso para entendimento do desenvolvedor sobre o erro acontecido.

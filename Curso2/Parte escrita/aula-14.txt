@@ -1,0 +1,3 @@
+aqui foi explicado mais coisas sobre os subjects que existem o explicitos
+que são aquele declarados no inicio com ou sem paramentros e os implicitos são aqueles
+os quais o mais interno vence e com o subject implicito voce pode colocar um texto em conjunto da sua classe.

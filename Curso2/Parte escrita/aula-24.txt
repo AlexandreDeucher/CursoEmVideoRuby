@@ -1,0 +1,4 @@
+aqui ele mostra 3 matchers para arrays com o include que ele pega apenas o
+elemento do array o match array que tambem pega todos os elementos di array porem ele nescessita que
+voce coloque o array como parametro ja no contain_exactly voce pega o array inteiro e não nescessita que 
+o array esteja como parametro. 

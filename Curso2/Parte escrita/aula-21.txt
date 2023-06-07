@@ -1,0 +1,3 @@
+matchers predicados são aqueles que no começo tem o be_alguma coisa
+e isso serve para testar se aquilo é verdade ou não é um meio mais bonito e mais facil 
+de fazer um teste de verdadeiro e falso.

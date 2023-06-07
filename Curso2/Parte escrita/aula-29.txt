@@ -1,0 +1,2 @@
+aqui ele mostra o be_within que é utilizado para verificar se voce esta dentro do range de um numero
+ele limita o quanto voce pode passar de um numero base e ele tambe lida com numeros flutuantes.

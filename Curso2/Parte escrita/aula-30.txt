@@ -1,0 +1,2 @@
+ele testa alguma função a qual voce jogar para ele como o teste para ver 
+se um numero é par ou impar.

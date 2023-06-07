@@ -1,0 +1,4 @@
+ele fala que caso não utilizemos um documento organizado com gemfile controlador de versao
+e tudo mais seria bom que fosse utilizado a classe RSpec.describe para que assim ele chame a classe
+de configuração do RSpec. e tambe foi ensinado a colocar o sujeito no lugar do describe para que assim 
+ele seja validado com mais facilidade e mais expecificamente. 

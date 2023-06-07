@@ -1,0 +1,1 @@
+ele explica o do por que devemos testar os softweres, e testamos para que a manutenabilidade seja mais facil alem de facilitar a leitura para o dev 

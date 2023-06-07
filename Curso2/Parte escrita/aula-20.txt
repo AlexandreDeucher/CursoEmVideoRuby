@@ -1,0 +1,2 @@
+aqui foi dito sobre os matchers de classe os quais conseguem validar
+se um nome starting_with j ou termina com A entre outras coisas

@@ -1,0 +1,6 @@
+ele fala sobre os tipos de teste que seriao o unitario o integrado e o teste de sistemas 
+o mais simples e mais barato de ser implementado é o teste unitario o qual testa metodos partes pequenas 
+do softwere ja o integrado ele ja custa um pouco mais e é mais demorado que o unitario apos ele vem
+o teste de sistema que é o mais demorado e mais caro pois ele demanda muita coisa servidor separado para os testes
+alem da competencia um UX(User experience) para ver se é realmente aquilo que foi pedido e ele testa tudo fazendo com que seja 
+mais devagar o processo e consequentemente mais caro.

@@ -1,0 +1,5 @@
+ele apresenta mais metchers como o be instance of que verifica se a variavel
+a qual esta sendo recebida é do tipo esperado e o be_kind of tem a mesma função porem
+ele tambem aceitava variaveis de heranã alem deles temos o respond_to que ele verifica se uma variavel
+consegue responder a tao metodo ou parametro alem deles tambe tiveram o be_a e o be_an que sao a mesma coisad
+do kind e instance eles tem a mesma função mas expressividades diferentes

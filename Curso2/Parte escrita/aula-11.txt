@@ -1,0 +1,3 @@
+refatoramos o codigo para que assim ele ficasse mais legivel colocando ele dentro de um
+context e adicionando alguns it para que quando for chamado o teste ele mostre os testes que ocorreram
+corretamente.

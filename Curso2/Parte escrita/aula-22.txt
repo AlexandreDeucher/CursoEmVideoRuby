@@ -1,0 +1,4 @@
+aqui ele mostra algumas validações de erro, como o raise_exception que mostrara
+a excessao inteira não sendo tao precio e tem o raise_error que é bem mais especifico
+da diretamente o erro como "ZeroDivisionError" ou você pode botar um parametro nele para ele dizer uma
+menssagem como "divided by 0" alem de ter como utilizar a expressao regular.

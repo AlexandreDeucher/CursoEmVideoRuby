@@ -1,0 +1,6 @@
+aqui mostra ainda mais metcher como comparação de numero se ele é > ou < ou >= <= que um numero
+alem dos metchers be_betwen que verificam se o numero digitado esta dentro do minimo e do maximo passado
+e tem o .inclusive que deixa voce botar o numero minimo digamos assim (3,6).inclusive assim voce pode colocar
+o numero 3 ou o 6 e não acontecera nenhum erro porem se voce colocar (3,6).exclusive e tentar colocar os numero 3 ou 6
+ele vai estourar um erro pos ele aceita apenas os numero entre 3 e 6 alem do match que me parece ser a validação de um formato
+ainda o start e end_with que ele valida se voce esta iniciando com o que é esperado ou finalizando com o esperado.

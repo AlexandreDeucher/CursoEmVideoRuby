@@ -1,0 +1,2 @@
+ele mostra como funciona o subject que é um jeito de referenciar uma classe
+para o result.

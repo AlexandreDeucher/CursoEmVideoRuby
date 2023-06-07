@@ -1,0 +1,6 @@
+ele explica sobre o BDD que é uma programaçao guiada por comportamentos
+no caso ele utiliza no minimo 3 parametros o Given que é quando voce esta 
+no ambiente de teste um exemplo seria quando estou em uma zona de pesquisa eu deve 
+visitar o /search e o conteudo esperado é o /search apos isto vem o when que seria enquanto o usuario
+preenche um formulario e clicka em um botao submit e quano o botao fir pressionado ele deve mostrar o resultado de sua pesquisa.
+no caso voce especifica o que seu sistema faz.

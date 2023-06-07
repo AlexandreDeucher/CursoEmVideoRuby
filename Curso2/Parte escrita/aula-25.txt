@@ -1,0 +1,3 @@
+ele pega um range de sla (10..10000)e verifica se os numeros estao dentro desse
+range se tiver fora ele da um erro tambe um utilizado o not_to pra verificar se algum numero
+esta aparecendo e tal.
