@@ -1,0 +1,4 @@
+ele mostra as falhas agregadas que é quando o programa da uma falha ele mostra
+para a gente apenas uma das falhas que tem no sistema no caso a primeira que ele encontrar
+porem se houver outras falhas ele não mostrara enquanto não resolvermos as falhas anteriores
+e com o agrregate_failure a gente consegue fazer com que ele teste tudo e mostre todos os erros para a gente.

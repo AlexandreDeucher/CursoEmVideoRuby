@@ -1,0 +1,2 @@
+aqui ele mostra o hook around que faz o antes e o depois do mesmo jeito em um
+comando só porem ele nescessita ser forçado a iniciar o teste com o .run

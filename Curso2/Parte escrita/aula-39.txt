@@ -1,0 +1,2 @@
+ele mostra o shared examples que é utilizado para ajudar a refatorar o codigo
+e facilitar o entendimento do desenvolvedor.

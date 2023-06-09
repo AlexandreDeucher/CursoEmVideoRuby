@@ -1,0 +1,1 @@
+o metcher de output ele testa entrada e saida de dados. 
