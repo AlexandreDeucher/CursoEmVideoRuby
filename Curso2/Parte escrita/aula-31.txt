@@ -1,0 +1,2 @@
+ele ensina utilizar helpers que seriam arquivos.rb que guardariam metodos os quais seriam puxados dentro 
+de seus metcher e configurados no arquivo spec.rb para que assim ele tenha um acesso direto ao seu metodo.
