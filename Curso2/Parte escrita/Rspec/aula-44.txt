@@ -1,0 +1,1 @@
+aqui ele mostra os stubs em meio a metodos e ele tambem mostra testando erro

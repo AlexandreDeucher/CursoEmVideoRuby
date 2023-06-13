@@ -1,0 +1,1 @@
+stubs é um meio de forçar uma resposta de um metodo

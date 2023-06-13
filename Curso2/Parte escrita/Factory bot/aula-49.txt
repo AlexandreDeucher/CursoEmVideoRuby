@@ -1,0 +1,1 @@
+aqui ele mostra um jeito de refatorar um pouco os codigos de validação

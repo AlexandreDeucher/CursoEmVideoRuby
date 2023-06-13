@@ -1,0 +1,2 @@
+ele ensina a filtrar os testes e como fazer com que ele fassa aquela bateria de testes
+e ignore alguns testes os quais voce interpreta que é lento.

@@ -1,0 +1,1 @@
+aqui aprendemos a como sobreescrever o factory bot com um atributo e como apelidar ele utilizando os aliases

@@ -1,0 +1,2 @@
+aqui ele criou um projeito e mostrou como configurar o rspec dentro do
+rails assim criando um projeto e criando um scaffold(CRUD)

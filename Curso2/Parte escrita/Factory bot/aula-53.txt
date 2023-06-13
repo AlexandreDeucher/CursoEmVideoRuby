@@ -1,0 +1,1 @@
+ele mostra a questão da herança com o factory bot e como utilizala com atributos e facilitando o entendimento de codigo.

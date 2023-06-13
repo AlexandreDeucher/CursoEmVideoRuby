@@ -1,0 +1,1 @@
+os mocks são usados para testar comportamento 

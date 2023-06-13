@@ -1,0 +1,2 @@
+aqui ele apresenta uma forma melhor de refatorar os testes com o factory bot que é quase a mesma coisa porem não utilizamos o yml e sim o proprio ruby para utilizalo
+e ele é chamado quase da mesma maneira.

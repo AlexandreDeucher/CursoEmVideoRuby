@@ -1,0 +1,1 @@
+aqui ele mostra a gem faker que gera dados aleatorios dependendo do que é pedido para ele e utilizamos no lugar do nome que estavamos utilizando antes.

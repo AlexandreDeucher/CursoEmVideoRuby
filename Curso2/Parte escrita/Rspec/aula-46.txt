@@ -1,0 +1,1 @@
+alguns parametros do mock são como os matchers

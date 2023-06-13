@@ -1,0 +1,1 @@
+ele mostra um metodo para testar nulo

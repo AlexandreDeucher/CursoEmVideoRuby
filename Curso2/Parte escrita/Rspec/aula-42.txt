@@ -1,0 +1,3 @@
+o double ele é um duble de um objeto
+entao ele serve para testar um objeto falso para nao 
+atingir o verdadeiro objeto mas conseguir testalo com prontidao.
