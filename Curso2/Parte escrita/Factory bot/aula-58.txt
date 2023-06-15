@@ -1,0 +1,3 @@
+atributos dinamicos são aqueles os quais podem nos trazer diferentes valores 
+e ele mostra como podemos manipular eles que devemos manipulalos em blocos e 
+tudo mais

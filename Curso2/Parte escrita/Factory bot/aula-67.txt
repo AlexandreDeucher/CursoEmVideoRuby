@@ -1,0 +1,2 @@
+nesta aula utilizamos a gem vcr para que assim a gente simplifique e solidifique ainda 
+mais nosso codigo contra os erros para que assim os stub fiquem mais compreensiveis.

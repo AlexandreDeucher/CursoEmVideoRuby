@@ -1,0 +1,3 @@
+nesta aula ele apenas mostra aulguns metodos extras como atrribute_for_list que é
+um metodo que a gente ja conhecia porem para listas ele basicamente mostrou os mesmos metodos 
+de antes porem em listas.

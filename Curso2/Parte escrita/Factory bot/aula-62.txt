@@ -1,0 +1,2 @@
+ele mostra o has_many para e fazemos testes gerando mais de 1 customer 
+para e criamos listas para eles.

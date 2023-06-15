@@ -1,0 +1,3 @@
+ele ensina a utilizar os sequences que são algo que é ativiado cada vez que 
+um factory bot que tenha a sequence for chamado e testado e ele coloca um numero
+e conta em sequencia basicamente

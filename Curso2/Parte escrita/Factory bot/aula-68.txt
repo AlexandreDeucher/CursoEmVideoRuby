@@ -1,0 +1,1 @@
+nesta aula utilizamos o vcr junto com o rspec utilizando o meta dados.

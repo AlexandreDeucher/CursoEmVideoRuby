@@ -1,0 +1,2 @@
+aqui ele mostra o atribbute_for que ele pega diretamente o que esta sendo 
+gravado dentro das factorys e voce consegue manipular estes dados.

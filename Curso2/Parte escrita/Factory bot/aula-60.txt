@@ -1,0 +1,2 @@
+ele ensinou a fazer a associação do customer dentro de order ou utilizando
+o proprio customer ou instanciando ele la.

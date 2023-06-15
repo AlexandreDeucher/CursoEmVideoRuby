@@ -1,0 +1,2 @@
+os atributos transitorios são atributos que como dizem são transitorios
+eles ficam apenas naquela instancia e não salvam no banco.

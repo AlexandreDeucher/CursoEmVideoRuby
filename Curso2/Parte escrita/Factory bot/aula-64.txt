@@ -1,0 +1,2 @@
+ele mostra o factoryBot lint que é uma prevenção para que não haja a falta de 
+uma variavel importante

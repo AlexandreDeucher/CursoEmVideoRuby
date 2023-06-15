@@ -1,0 +1,3 @@
+ele fala sobre os callbacks que são aquele after(:build) que cria uma instancia
+e o before(:create) e o after(:create) que os dois tem quase a mesma função porem um é 
+antes e o outro depois

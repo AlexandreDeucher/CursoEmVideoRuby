@@ -1,0 +1,2 @@
+aqui ele mostra as traits que são basicamente um outro jeito de usar 
+uma herança para colocar como atributos para os factorys bots

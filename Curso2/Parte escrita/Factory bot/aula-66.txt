@@ -1,0 +1,2 @@
+utilizamos uma outra gem chamada webmock que nos permite usar os stubs
+na utilização da pagina web no caso ele faz uma pagina falsa apenas para teste

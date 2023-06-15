@@ -1,0 +1,2 @@
+nesta aula vimos como abrir outras paginas webs ou uma api e validar 
+se elea esta realmente retornando o que ela deveria rotrnar.
