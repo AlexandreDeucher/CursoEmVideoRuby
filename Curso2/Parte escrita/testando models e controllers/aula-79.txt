@@ -1,0 +1,2 @@
+continuamos as validações de usuario testando se um user esta logado
+dentro do sistema por meio do sign_in e o http.

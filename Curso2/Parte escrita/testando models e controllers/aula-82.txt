@@ -1,0 +1,1 @@
+aqui testamos o content type recebido e forçamos para que ele seja uma application json

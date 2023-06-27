@@ -1,0 +1,1 @@
+ele testou novamente a entrada de usuarios e conseguindo pegar o atributo destes usuarios para.

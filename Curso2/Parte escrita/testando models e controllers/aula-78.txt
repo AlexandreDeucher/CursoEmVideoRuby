@@ -1,0 +1,1 @@
+nesta aula ele mostrou a gem devise que tem o papel de validação de usuario entre outras coisas.

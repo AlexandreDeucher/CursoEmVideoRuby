@@ -1,0 +1,1 @@
+fizemos um teste inverso e testamos uma rota.

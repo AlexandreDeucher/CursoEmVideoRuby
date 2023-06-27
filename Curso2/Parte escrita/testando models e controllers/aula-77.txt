@@ -1,0 +1,2 @@
+ele cria um controller e testa se o http recebido esta recebendo um 200
+que indica sucesso na aplicação.

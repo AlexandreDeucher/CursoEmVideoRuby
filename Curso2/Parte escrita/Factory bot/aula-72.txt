@@ -1,0 +1,1 @@
+aqui a gente usa os timeHelpers para parar o tempo e validar se estamos recebendo o mesmo horario e tudo mais relacionado a horario.

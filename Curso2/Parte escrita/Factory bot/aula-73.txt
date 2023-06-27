@@ -1,0 +1,2 @@
+aqui foi mostrado como rodar os teste de modo aleatorio e com isso ele gera
+seeds para que a gente possa testar do mesmo jeito.

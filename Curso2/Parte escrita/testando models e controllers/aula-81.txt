@@ -1,0 +1,2 @@
+aqui ele testa se esta sendo recebido a flash notice de uma confirmaçao de 
+criaçao de customer.

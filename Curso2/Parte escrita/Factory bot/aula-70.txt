@@ -1,0 +1,3 @@
+nesta aula aprendemos sobre as uri não deterministicar quando não sabemos o valor o qual nos 
+sera retarnado temos que tentar encontrar esse valor ou fazer com que ele aceite qualquer valor que vier
+com alguns tratamentos.

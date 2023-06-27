@@ -1,0 +1,3 @@
+ele apenas fala o que iremos fazer que é validar models 
+e criamos 2 models e validaremos esses campos tendo uma ideia maior de
+como um programa funciona.

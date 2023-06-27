@@ -1,0 +1,2 @@
+aqui ele faz alguns testes de modelo com RSPEC puro para validar se esta vindo
+informações como nil ou algo vazio.

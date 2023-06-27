@@ -1,0 +1,2 @@
+o shoulda matcher é um facilitador que nos ajuda a simplificar e refatorar
+testes do RSPEC testando models e tudo mais com algumas funções prontas 
