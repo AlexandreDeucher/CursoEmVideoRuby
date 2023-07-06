@@ -1,0 +1,1 @@
+adicionamos um combo box que aqui é chamado de select para que assim conseguirmos editar o tipo de mineração de uma moeda.

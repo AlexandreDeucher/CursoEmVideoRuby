@@ -1,0 +1,3 @@
+basicamente ele mostra o fluxo do mvc que fizemos até agora e 
+como as variaveis de instancia estao instanciadas e de onde ele 
+esta puxando os valores.

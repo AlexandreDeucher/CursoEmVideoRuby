@@ -1,0 +1,1 @@
+foi explicado sobre o que sera a aplicação que no caso é uma crypto carteira e nela havera algumas cryptos contendo nome sigla e imagem 

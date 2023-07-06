@@ -1,0 +1,1 @@
+ele apenas mostra como ficara o novo crud dos tipos de crypto.

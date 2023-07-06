@@ -1,0 +1,2 @@
+ele mostra como refatorar o codigo do rake utilizando um metodo alem disto ele mostra o yield que ele busca um bloco de texto assim por meio do (do) ou 
+utilizando {}.

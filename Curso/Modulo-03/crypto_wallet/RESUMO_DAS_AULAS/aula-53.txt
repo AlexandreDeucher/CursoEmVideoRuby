@@ -1,0 +1,3 @@
+ele ensina a descobrir qual o ambiente que voce esta utilizando o Rails.env que retornara o ambiente o qual voce se encontra
+e por Rails.env.ambiente e com isso ele retornara um booleano se caso voce estiver no ambiente o qual voce escreveu ele retornara 
+true caso contrario false.

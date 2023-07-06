@@ -1,0 +1,6 @@
+ele ensina a fazer as rakes tasks que podem ser usadas como atalhos
+para algumas funções como a de pegar o backup da seed do banco 
+voce pode criar uma rake task que faça isso e você apenas chamara ela
+por exemplo rails dev:setup alem de mostrar como funciona a gem TTY que
+ela é basicamente um spinner que fica mostrando enquanto carrega alguma
+função apenas.

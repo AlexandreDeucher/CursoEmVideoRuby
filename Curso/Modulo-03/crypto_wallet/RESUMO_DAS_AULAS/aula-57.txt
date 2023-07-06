@@ -1,0 +1,2 @@
+ele explica sobre a criação de layouts e aplicar eles automaticamente
+pelos layouts.

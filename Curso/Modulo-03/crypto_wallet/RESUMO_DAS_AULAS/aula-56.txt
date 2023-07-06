@@ -1,0 +1,4 @@
+as partials são basicamente um arquivo com um (_) na frente e dentro 
+dele voce declara formulas de um layout como a perssonalização de um 
+rodapé e um cabeçalho você pode criar ele dentro de uma partials e 
+depois apenas reaproveitar aquele layout chamando esta partials.

@@ -1,0 +1,2 @@
+nesta aula vimos como colocar a foreing key dentro de outra tabela
+utilizando o model da coin e colocando um belongs_to

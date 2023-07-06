@@ -1,0 +1,3 @@
+ele fala sobre as permissoes do seu codigo ou como as pessoas 
+podem fazer para entrar dentro do seu sistema por meio de bugs
+ou falhas de permissão.

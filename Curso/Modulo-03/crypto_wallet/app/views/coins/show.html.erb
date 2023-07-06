@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @coin %>
+
+<div>
+  <%= link_to t('links.show'), edit_coin_path(@coin) %> |
+  <%= link_to "Back to coins", coins_path%>
+
+  <%= button_to t("links.delete"), @coin, method: :delete %>
+</div>

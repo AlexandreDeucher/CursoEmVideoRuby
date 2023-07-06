@@ -1,0 +1,5 @@
+rafatoramos o codigo do seeds mudando o create para o find_or_create_by
+que verificava se o elemento existia se ele não existisse ele criava
+um novo elemento se ele existisse ele não cria alem disto colocamos todas as 
+moedas dentro de um variavel e utilizamos ela dentro de um laço de repetiçao 
+para que assim ele crie todas as coin corretamente.

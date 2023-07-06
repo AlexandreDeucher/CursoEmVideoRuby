@@ -1,0 +1,1 @@
+ele mostra onde fica o show e o delete e como e fluxo deles.

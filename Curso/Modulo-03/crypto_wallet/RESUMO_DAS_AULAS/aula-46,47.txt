@@ -1,0 +1,2 @@
+ele explica sobre os helpers que são um jeito de escrever o html em ruby com antes voce utilizaria a tag <a> para linkar algo aqui você pode usar o link_to e eles
+sao especificamente usados na view

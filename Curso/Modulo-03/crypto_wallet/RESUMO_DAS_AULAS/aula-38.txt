@@ -1,0 +1,2 @@
+ele explicou como funciona o modele MVC que no caso o usario faz uma requisição o controle recebe e busca no banco/modelo que retorna as informações para o controle
+para que assim ele faça os devidos tratamentos e logo em seguida envia para a view fazendo assim retornar o que foi pedido para o usuario

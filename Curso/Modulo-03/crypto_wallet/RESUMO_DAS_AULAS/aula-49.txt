@@ -1,0 +1,5 @@
+no HTTP utilizavamos o get e o post porem eles não tinham um nivel 
+de segurança tao agradavel entao foram criadas as Rest que são algumns 
+verbos como estes porem mais seguros como retrive que é basicamente o get
+entre outros, alem disso foi mostrado como redirecionar a rota para a pagina
+welcome/index direto utilizando o root.

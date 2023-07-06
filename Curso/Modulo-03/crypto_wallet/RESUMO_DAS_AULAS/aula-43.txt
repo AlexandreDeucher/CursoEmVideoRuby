@@ -1,0 +1,2 @@
+é explicado um pouco sobre as actions onde tem algumas açoes como o index
+que é quem define a rota do servidor.

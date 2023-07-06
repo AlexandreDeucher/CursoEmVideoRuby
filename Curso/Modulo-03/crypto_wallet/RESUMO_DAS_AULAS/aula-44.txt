@@ -1,0 +1,3 @@
+é explicado que o modele ele é basicamente opcional ele nem sempre
+buscara dados no BDD isso dependera do sistema e ele ensina a como gerar
+um controller e uma view e como achar a rota da view e como abrila.

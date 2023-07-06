@@ -1,0 +1,3 @@
+ele mostra o YAML que é basicamente um xml porem menos verboso em vez de voce precisar
+abrir e fechar uma boa quantidades de tags voce usa o identificador como rua:
+e apos o identificador voce coloca o que ele tera dentro recebera etc...

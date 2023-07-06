@@ -1,0 +1,2 @@
+apenas alteramos o nome de uma coluna da tabela de name para 
+description.

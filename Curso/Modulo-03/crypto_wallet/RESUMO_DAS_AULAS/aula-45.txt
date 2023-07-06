@@ -1,0 +1,2 @@
+ele explica o que é o ERB que é basicamente um meio de misturar
+o HTML com o ruby e mostra algumas maneiras de utilizalo    

@@ -1,0 +1,4 @@
+o rails tem como padrao tres ambientes de desenvolvimento o 
+desenvolvimento o teste e a produção alem disto ele possibilita
+configuralos e se voce achar nescessario para o seu projeto
+voce consegue criar mais ambientes.

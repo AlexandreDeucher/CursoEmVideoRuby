@@ -1,0 +1,2 @@
+criamos uma nova migrate para que assim conseguirmos colocar uma chave
+estrangeira dentro da tabela coins.

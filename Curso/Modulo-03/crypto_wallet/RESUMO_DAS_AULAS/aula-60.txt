@@ -1,0 +1,6 @@
+ele explica o fluxo de criar um novo item na tabela que fala
+que o usuario digita algo dentro de um input de texto e aperta um 
+botao para cadastrar apartir dai ele é recebido pela maquina é feita uma
+validação se o que foi digitado pode ser gravado no sistema e ele da um .save
+se não ele entra em um laço de repetiçao e redireciona a rota para a mesma pagina 
+por padrao.

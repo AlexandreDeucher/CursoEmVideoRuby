@@ -1,0 +1,5 @@
+ele mostra que o rails tem uma função chamada rails db que é basicamente
+um console do mySql dentro do proprio prompt então você não nescessita de
+outra ide para configurar o bando pelo propriom prompt voce consegue fazer 
+um CRUD completo, e depois criamos o banco das coins e foram cadastradas 
+duas coins.

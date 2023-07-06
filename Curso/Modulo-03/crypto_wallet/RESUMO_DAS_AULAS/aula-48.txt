@@ -1,0 +1,5 @@
+os helpers tambem podem ser criados dentro dos arquivos _helper 
+e dentro deles voce pode criar metodos que seram utilizados globalmente
+mas por organização eles utilizam o applications para metodos globais
+e os arquivos com o nome das views para utilizar os metodos apenas nas views 
+especificas

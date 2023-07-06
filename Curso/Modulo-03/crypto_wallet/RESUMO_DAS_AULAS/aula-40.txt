@@ -1,0 +1,11 @@
+ele explica sobre o padrao active record que é basicamente o modelo
+do projeto onde você aplica as regras de negocio e faz o tratamento
+dos dados e o active record tambem tem um ORM que ele ajuda a mapear
+os dados tanto do BDD quanto do ruby assim simplificando a manipulação 
+dos dados, alem disso o frame work que contem o active record tambem 
+possui o Migrations que é um meio de fazer o BDD pela propria linguagem 
+ruby dentro do migrations voce pode criar deletar e alterar uma tabela(CRUD),
+alem disso quando voce cria uma tabela com o scaffold ele gera automaticamente
+na pasta db do projeto uma pasta chamada migrate que contem um arquivo.ruby
+com a data de criação e dentro deste arquivo esta todo o formato da nossa tabela
+e é nela que faremos a migration para o BDD.

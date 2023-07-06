@@ -1,0 +1,1 @@
+aprendemos o translate e o locale os quais sao utilizados para a tradução do sistema ele puxa o valor instanciado.

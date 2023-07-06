@@ -1,0 +1,4 @@
+ele apresenta o rails console que voce utilizado o rails c
+ele demonstra muitos comandos para serem utilizados sem contar que ele
+pode fazer voce acessar algum ambiente apenas dando um rails console -e production 
+por exemplo, alem de fazer testes entre outas coisas

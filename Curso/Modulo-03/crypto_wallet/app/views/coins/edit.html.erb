@@ -1,0 +1,10 @@
+<h1>Editing coin</h1>
+
+<%= render "form", coin: @coin %>
+
+<br>
+
+<div>
+  <%= link_to t("links.show"), @coin %> |
+  <%= link_to "Back to coins", coins_path %>
+</div>

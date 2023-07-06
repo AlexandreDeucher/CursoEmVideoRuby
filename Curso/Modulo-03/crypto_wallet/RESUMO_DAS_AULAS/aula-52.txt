@@ -1,0 +1,3 @@
+ele ensinou a utilizar mais o console do rails e principalmente adicionar 
+novos elementos na tabela direto pelo codigo sql dando um TABELA.new 
+e ele deixa em branco para voce preencher ja tem o create que ele ja vem preenchido.

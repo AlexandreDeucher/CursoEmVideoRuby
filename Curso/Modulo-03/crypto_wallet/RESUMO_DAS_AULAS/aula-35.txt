@@ -1,0 +1,1 @@
+nesta aula ele ensinou como configurar o bd no projeto

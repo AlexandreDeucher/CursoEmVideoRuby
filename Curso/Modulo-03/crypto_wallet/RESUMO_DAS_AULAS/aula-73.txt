@@ -1,0 +1,2 @@
+ele trata sobre o has_many que é uma pratica utilizada para adiciona um pk em uma tabela como antes colocamos uma fk nas coins agora colocamos por meio do has_many 
+uma fk na miningtype.

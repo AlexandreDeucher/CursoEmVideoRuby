@@ -1,0 +1,2 @@
+é falado sobre o comando scaffold que é utilizado para criar o 
+BDD e logo em seguida criamos a table Coins.

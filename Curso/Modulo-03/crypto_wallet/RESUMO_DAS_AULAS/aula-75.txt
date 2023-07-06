@@ -1,0 +1,2 @@
+ele apresenta o pluck o map e o & que retornam um array da informação que voce passa, e pelo o que etendi eles são usados para a mesma coisa porem tem que ser avaliado 
+qual seria mais utila para tal aplicação.

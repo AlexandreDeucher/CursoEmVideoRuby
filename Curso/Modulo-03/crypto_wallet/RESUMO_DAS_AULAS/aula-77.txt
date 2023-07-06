@@ -1,0 +1,2 @@
+corrigimos o selec seguindo o modelo mvc pois antes o modelo estava enviando dados 
+diretamente para a view.

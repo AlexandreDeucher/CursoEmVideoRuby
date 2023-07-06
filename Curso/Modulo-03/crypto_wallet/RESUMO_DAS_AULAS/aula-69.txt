@@ -1,0 +1,4 @@
+aqui criamos o segundo crud que são os tipos de cryptos e com isso
+ele explica que iremos limitar o usuario de apenas 3 tipos de crypto 
+alem disto fizemos todo arquivo rake contendo estes 3 tipos para que assim
+que chamarmos a nossa rake.task ela ja venha com este novo crud salvo.

@@ -1,0 +1,2 @@
+aqui ele corrigiu o codigo do add_coins pois como ele estava adicionando as coins antes de um tipo de mineração existir o programa acabava dando erro ai foi corrigido isto
+alem de refatorar uma boa parte do codigo.

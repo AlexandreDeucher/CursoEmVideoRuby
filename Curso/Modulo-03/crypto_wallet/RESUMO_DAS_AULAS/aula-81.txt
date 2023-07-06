@@ -1,0 +1,3 @@
+vimos como colocar a tradução direta no modulo fazendo que fique ainda mais 
+facil traduzir os elementos alem de ter a possibilidade de deixar as palavras no 
+plural ou singular

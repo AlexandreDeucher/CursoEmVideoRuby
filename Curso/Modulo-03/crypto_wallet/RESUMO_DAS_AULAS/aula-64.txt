@@ -1,0 +1,2 @@
+ele fala sore o rails seed que é basicamente um backup do banco utilizado quando voce vai testar o banco para que cada vez que voce deletar alterar um elemento da 
+tabela voce não precisar recriar uma tabela inteira de novo voce apenas chama a seed e ja tem todo aquele banco salvo.
