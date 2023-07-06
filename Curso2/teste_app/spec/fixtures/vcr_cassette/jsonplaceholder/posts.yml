@@ -1,0 +1,145 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: "<API-URL>/posts/2"
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Fri, 16 Jun 2023 17:09:55 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      X-Powered-By:
+      - Express
+      X-Ratelimit-Limit:
+      - '1000'
+      X-Ratelimit-Remaining:
+      - '999'
+      X-Ratelimit-Reset:
+      - '1686935422'
+      Vary:
+      - Origin, Accept-Encoding
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Cache-Control:
+      - max-age=43200
+      Pragma:
+      - no-cache
+      Expires:
+      - "-1"
+      X-Content-Type-Options:
+      - nosniff
+      Etag:
+      - W/"116-jnDuMpjju89+9j7e0BqkdFsVRjs"
+      Via:
+      - 1.1 vegur
+      Cf-Cache-Status:
+      - MISS
+      Report-To:
+      - '{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0KwrF%2BsEnJpG4zRXW9ewRISrRCRnhiAr59USRU5efhq2d59rJIKI9z4HBXXRqWgZx8WoeLs2Ukrs1CQGTH1ivC%2BXMH%2BgB%2BWtEqnlAXW1y88ipTom5pxWRaGON3jvVFIEb01FQ0rcB1Hw%2F9EKNlQ%3D"}],"group":"cf-nel","max_age":604800}'
+      Nel:
+      - '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}'
+      Server:
+      - cloudflare
+      Cf-Ray:
+      - 7d84a9c96bc4f8f1-NVT
+    body:
+      encoding: ASCII-8BIT
+      string: |-
+        {
+          "userId": 1,
+          "id": 2,
+          "title": "qui est esse",
+          "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+        }
+  recorded_at: Fri, 16 Jun 2023 17:09:55 GMT
+- request:
+    method: get
+    uri: "<API-URL>/posts/3"
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Fri, 16 Jun 2023 17:30:36 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      X-Powered-By:
+      - Express
+      X-Ratelimit-Limit:
+      - '1000'
+      X-Ratelimit-Remaining:
+      - '998'
+      X-Ratelimit-Reset:
+      - '1686934642'
+      Vary:
+      - Origin, Accept-Encoding
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Cache-Control:
+      - max-age=43200
+      Pragma:
+      - no-cache
+      Expires:
+      - "-1"
+      X-Content-Type-Options:
+      - nosniff
+      Etag:
+      - W/"11b-USacuIw5a/iXAGdNKBvqr/TbMTc"
+      Via:
+      - 1.1 vegur
+      Cf-Cache-Status:
+      - HIT
+      Age:
+      - '1998'
+      Report-To:
+      - '{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YWiX5259T1UiV7ipzru5f6a6M29YRBuvrwMoqXYyCqzfXGKX%2F6iVLC5ZKeSy9pPiCabVB2oKO5nr23doE9Yxbg5Sg5PDQhwcMX1C3dsOqRU63Dejdee4QV6af1qQ%2FpBFdeIQLla8h29ymWGCcs4%3D"}],"group":"cf-nel","max_age":604800}'
+      Nel:
+      - '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}'
+      Server:
+      - cloudflare
+      Cf-Ray:
+      - 7d84c81b5c16f8f1-NVT
+    body:
+      encoding: ASCII-8BIT
+      string: |-
+        {
+          "userId": 1,
+          "id": 3,
+          "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+          "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+        }
+  recorded_at: Fri, 16 Jun 2023 17:30:36 GMT
+recorded_with: VCR 6.1.0

@@ -1,0 +1,75 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: <API-URL>/posts/1
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Thu, 15 Jun 2023 19:54:49 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      X-Powered-By:
+      - Express
+      X-Ratelimit-Limit:
+      - '1000'
+      X-Ratelimit-Remaining:
+      - '999'
+      X-Ratelimit-Reset:
+      - '1686850337'
+      Vary:
+      - Origin, Accept-Encoding
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Cache-Control:
+      - max-age=43200
+      Pragma:
+      - no-cache
+      Expires:
+      - "-1"
+      X-Content-Type-Options:
+      - nosniff
+      Etag:
+      - W/"116-jnDuMpjju89+9j7e0BqkdFsVRjs"
+      Via:
+      - 1.1 vegur
+      Cf-Cache-Status:
+      - HIT
+      Age:
+      - '8571'
+      Report-To:
+      - '{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=32eFhWLo6CY97D1VCXPYb4VFXu0rtdrQd%2Fi7pLnA%2FFIPNFm51GZisJLaYa4WV7wmCqIhuFH6UVEP%2B6UQ9%2BtYoGIDidEv%2BqLv5y8BpPtwSbHYvMy%2FcHZ%2Bn042qJb8NaRGehWmZ%2B6fw01ZT6%2FWdMg%3D"}],"group":"cf-nel","max_age":604800}'
+      Nel:
+      - '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}'
+      Server:
+      - cloudflare
+      Cf-Ray:
+      - 7d7d5df9aab4f8e9-NVT
+    body:
+      encoding: ASCII-8BIT
+      string: |-
+        {
+          "userId": 1,
+          "id": 2,
+          "title": "qui est esse",
+          "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+        }
+  recorded_at: Thu, 15 Jun 2023 19:54:49 GMT
+recorded_with: VCR 6.1.0

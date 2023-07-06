@@ -1,0 +1,14 @@
+<p>Welcome! <strong><%=@description_person%></strong></p>
+<p><%=Date.today%></p>
+<p><%="you are in environment: "+Rails.env%></p>
+<h2>Locales</h2>
+<ul>
+    <li>
+        <%=link_to "Dog registration" , pets_path %>
+    </li>
+    <hr>
+    <li>
+        <%=link_to "Owner registration", owners_path %>
+    </li>   
+</ul>
+        
