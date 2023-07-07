@@ -50,8 +50,5 @@ class ContactsController < ApplicationController
       #   :name, :email,:birthdate, :kind_id,
       # phones_attributes: [:id, :number, :_destroy],
       # address_attributes: [:id, :street, :city])
-      ActiveModelSerializers::Deserialization.jasonapi_parse(params)
-    end
+      ActiveModelSerializers::Deserialization.jsonapi_parse(params)    end
 end
-
-
