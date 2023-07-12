@@ -3,9 +3,9 @@ Rails.application.routes.draw do
 
 #resources :auths, only: [:create]
 resources :kinds
-  #scope module: 'v1' do
-  api_version(:module => "v1", :parameter => {:name => "version", :value => "1"}) do
-    resources :contacts do #, :constraints => lambda {|request| request.params[:version] == "1"} do
+
+
+    resources :contacts do
       resource :kind, only: [:show]
       resource :kind, only: [:show], path: 'relationships/kind'
 
@@ -17,11 +17,8 @@ resources :kinds
 
       resource :address, only: [:show, :update, :create, :destroy]
       resource :address, only: [:show, :update, :create, :destroy], path: 'relationships/address'
-      end
-  end
-  api_version(:module => "v2", :parameter => {:name => "version", :value => "2"}) do
-  #scope module: 'v2' do
-    resources :contacts do #, :constraints => lambda {|request| request.params[:version] == "1"} do
+    end
+    resources :contacts do
       resource :kind, only: [:show]
       resource :kind, only: [:show], path: 'relationships/kind'
 
@@ -32,10 +29,10 @@ resources :kinds
       resource :phone, only: [:update, :create, :destroy], path: 'relationships/phones'
 
       resource :address, only: [:show, :update, :create, :destroy]
-      resource :address, only: [:show, :update, :create, :destroy], path: 'relationships/address'
-      end
+      resource :address, only: [:show, :update, :create, :destroy], path: 'relationships/address'  
   end
 end
+
 
 #----------------Padrão do que o vitor mostrou-----------------
 #  resources :contacts do
