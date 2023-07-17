@@ -71,6 +71,7 @@ GEM
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
       tzinfo (~> 2.0)
+    api-pagination (5.0.0)
     bcrypt (3.1.19)
     bootsnap (1.16.0)
       msgpack (~> 1.2)
@@ -96,6 +97,7 @@ GEM
       bcrypt (~> 3.0)
       devise (> 3.5.2, < 5)
       rails (>= 4.2.0, < 7.1)
+    diff-lcs (1.5.0)
     erubi (1.12.0)
     faker (3.2.0)
       i18n (>= 1.8.11, < 2)
@@ -109,6 +111,18 @@ GEM
       reline (>= 0.3.0)
     jsonapi-renderer (0.2.2)
     jwt (2.7.1)
+    kaminari (1.2.2)
+      activesupport (>= 4.1.0)
+      kaminari-actionview (= 1.2.2)
+      kaminari-activerecord (= 1.2.2)
+      kaminari-core (= 1.2.2)
+    kaminari-actionview (1.2.2)
+      actionview
+      kaminari-core (= 1.2.2)
+    kaminari-activerecord (1.2.2)
+      activerecord
+      kaminari-core (= 1.2.2)
+    kaminari-core (1.2.2)
     loofah (2.21.3)
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
@@ -184,6 +198,23 @@ GEM
     responders (3.1.0)
       actionpack (>= 5.2)
       railties (>= 5.2)
+    rspec-core (3.12.2)
+      rspec-support (~> 3.12.0)
+    rspec-expectations (3.12.3)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.12.0)
+    rspec-mocks (3.12.6)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.12.0)
+    rspec-rails (6.0.3)
+      actionpack (>= 6.1)
+      activesupport (>= 6.1)
+      railties (>= 6.1)
+      rspec-core (~> 3.12)
+      rspec-expectations (~> 3.12)
+      rspec-mocks (~> 3.12)
+      rspec-support (~> 3.12)
+    rspec-support (3.12.1)
     sqlite3 (1.6.3-x86_64-linux)
     thor (1.2.2)
     timeout (0.4.0)
@@ -195,6 +226,7 @@ GEM
       yard (~> 0.9.20)
     warden (1.2.9)
       rack (>= 2.0.9)
+    webrick (1.8.1)
     websocket-driver (0.7.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
@@ -206,6 +238,7 @@ PLATFORMS
 
 DEPENDENCIES
   active_model_serializers
+  api-pagination
   bootsnap
   debug
   devise
@@ -214,14 +247,18 @@ DEPENDENCIES
   faker
   foreman
   jwt
+  kaminari
   pry-rails
   puma (~> 5.0)
+  rack
   rack-cors
   rails (~> 7.0.5, >= 7.0.5.1)
   rails-i18n
+  rspec-rails
   sqlite3 (~> 1.4)
   tzinfo-data
   versionist
+  webrick
 
 RUBY VERSION
    ruby 3.1.3p185

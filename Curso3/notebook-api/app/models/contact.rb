@@ -1,4 +1,11 @@
 class Contact < ApplicationRecord
+
+    #validation
+    validates_presence_of :kind
+    #validates_presence_of :address
+
+  paginates_per 5
+
   #Association
   belongs_to :kind #, optional: true 
   has_many :phones
